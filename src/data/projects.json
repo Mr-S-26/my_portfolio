@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "E-Commerce Dashboard",
+      "summary": "Modernized a legacy dashboard with React and TailwindCSS",
+      "demo": "https://michael-ryan-sia-e-commerce-app.vercel.app/",
+      "code": "https://github.com/Mr-S-26/e-commerce",
+      "image": "/images/ecommerce-web.png"
+    },
+    {
+      "id": 2,
+      "title": "Pokemon Memory Game",
+      "summary": "A Memory Game with Pokemon theme built with React",
+      "demo": "https://michael-rya-sia-pokemon-memory-game.vercel.app/",
+      "code": "https://github.com/Mr-S-26/pokemon-memory-game",
+      "image": "/images/pokemon-web.png"
+    }
+  ]

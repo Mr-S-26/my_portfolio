@@ -1,0 +1,74 @@
+@import './index.css'; /* Ensure that index.css is imported */
+
+.social-icon {
+  @apply p-3 rounded-full bg-gray-100 transition-colors;
+}
+
+.dark .social-icon {
+  @apply bg-gray-800 hover:bg-gray-700;
+}
+
+.dark .bg-gray-900 {
+  background-color: #1a202c;
+}
+
+.dark .text-white {
+  color: #ffffff;
+}
+
+.dark .text-gray-300 {
+  color: #d1d5db;
+}
+
+.dark .text-gray-400 {
+  color: #9ca3af;
+}
+
+.dark .border-gray-700 {
+  border-color: #4a5568;
+}
+
+.dark #hero {
+  @apply min-h-screen flex items-center justify-center from-black to-gray-900 px-4 py-24 transition-all duration-300
+}
+
+.dark #hero h1 {
+  @apply text-white
+}
+
+.dark section {
+  @apply bg-gray-900 text-white;
+}
+
+.dark .skills-card {
+  @apply bg-white bg-gray-700 text-white p-6 rounded-xl shadow
+}
+
+.skills-card {
+  @apply bg-white p-6 rounded-xl shadow
+}
+
+.dark .skills-card li {
+  @apply text-gray-300
+}
+
+.dark p {
+  @apply text-gray-300
+}
+
+.dark .projects-card {
+  @apply bg-gray-700 p-6 rounded-xl shadow-lg hover:shadow-xl
+}
+
+.dark .code-btn {
+  @apply bg-gray-500 px-4 py-2 rounded-lg hover:bg-gray-300 hover:bg-gray-600
+}
+
+.dark #skills {
+  @apply bg-gray-800
+}
+
+.dark #projects {
+  @apply bg-gray-800
+}
+

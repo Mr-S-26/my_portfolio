@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Center all sections */
+section {
+  @apply flex flex-col items-center;
+}
+
+/* Limit content width */
+.max-w-contained {
+  @apply max-w-6xl w-full px-4;
+}
