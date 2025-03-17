@@ -14,5 +14,13 @@
       "demo": "https://michael-rya-sia-pokemon-memory-game.vercel.app/",
       "code": "https://github.com/Mr-S-26/pokemon-memory-game",
       "image": "/images/pokemon-web.png"
-    }
+    },
+    {
+      "id": 3,
+      "title": "Artists Portfolio and Booking App",
+      "summary": "A full-stack app for artists to showcase their work and accept bookings",
+      "demo": "https://styleby-y.vercel.app/",
+      "code": "https://github.com/Mr-S-26/styleby-y",
+      "image": "/projects/styleby_y.png"
+  }
   ]
