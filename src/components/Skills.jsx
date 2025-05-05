@@ -22,7 +22,7 @@ const SkillCard = ({ icon, title, items }) => (
 
 export default function Skills() {
   const skills = {
-    frontend: ["React", "JavaScript", "Vite", "Tailwind CSS"],
+    frontend: ["React", "JavaScript", "Vite", "Tailwind CSS", "Next.js"],
     backend: ["Node.js", "Express"],
     databases: ["PostgreSQL"],
     tools: ["Git", "VS Code"],

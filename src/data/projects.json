@@ -1,26 +1,31 @@
 [
-    {
-      "id": 1,
-      "title": "E-Commerce Dashboard",
-      "summary": "Modernized a legacy dashboard with React and TailwindCSS",
-      "demo": "https://michael-ryan-sia-e-commerce-app.vercel.app/",
-      "code": "https://github.com/Mr-S-26/e-commerce",
-      "image": "/images/ecommerce-web.png"
-    },
-    {
-      "id": 2,
-      "title": "Pokemon Memory Game",
-      "summary": "A Memory Game with Pokemon theme built with React",
-      "demo": "https://michael-rya-sia-pokemon-memory-game.vercel.app/",
-      "code": "https://github.com/Mr-S-26/pokemon-memory-game",
-      "image": "/images/pokemon-web.png"
-    },
-    {
-      "id": 3,
-      "title": "Artists Portfolio and Booking App",
-      "summary": "A full-stack app for artists to showcase their work and accept bookings",
-      "demo": "https://styleby-y.vercel.app/",
-      "code": "https://github.com/Mr-S-26/styleby-y",
-      "image": "/images/styleby_y.png"
+  {
+    "id": 1,
+    "title": "Luxe Beauty Salon",
+    "summary": "A full-stack booking and management web app for beauty salons with elegant UI, email confirmations, time-slot logic, and admin dashboard.",
+    "demo": "https://style-by-y.vercel.app/",
+    "code": "https://github.com/Mr-S-26/styleby-y",
+    "image": "/images/luxe-beauty-salon.png",
+    "tech": [
+      { "name": "React", "icon": "/icons/react.svg" },
+      { "name": "Node.js", "icon": "/icons/nodejs.svg" },
+      { "name": "PostgreSQL", "icon": "/icons/postgresql.svg" },
+      { "name": "Tailwind CSS", "icon": "/icons/tailwindcss.svg" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Escape-Beyond",
+    "summary": "A full-stack booking and management web app for beauty salons with elegant UI, email confirmations, time-slot logic, and admin dashboard.",
+    "demo": "https://escape-ph.vercel.app/",
+    "code": "https://github.com/Mr-S-26/escape-ph",
+    "image": "/images/escape-ph.png",
+    "tech": [
+      { "name": "React", "icon": "/icons/react.svg" },
+      { "name": "Next.js", "icon": "/icons/next.svg"},
+      { "name": "Node.js", "icon": "/icons/nodejs.svg" },
+      { "name": "PostgreSQL", "icon": "/icons/postgresql.svg" },
+      { "name": "Tailwind CSS", "icon": "/icons/tailwindcss.svg" }
+    ]
   }
   ]
