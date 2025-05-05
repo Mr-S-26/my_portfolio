@@ -16,7 +16,7 @@
   {
     "id": 2,
     "title": "Escape-Beyond",
-    "summary": "A full-stack booking and management web app for beauty salons with elegant UI, email confirmations, time-slot logic, and admin dashboard.",
+    "summary": "A full-stack ravel agency website. Designed for both desktop and mobile devices with an engaging user experience.",
     "demo": "https://escape-ph.vercel.app/",
     "code": "https://github.com/Mr-S-26/escape-ph",
     "image": "/images/escape-ph.png",
