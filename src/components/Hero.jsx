@@ -24,15 +24,15 @@ export default function Hero() {
           Full-Stack Developer
         </p>
         <p className="max-w-2xl mx-auto text-gray-500 dark:text-gray-400">
-          Building fast, responsive, and user-friendly web apps with React, Vite, and Tailwind CSS.
+          Building fast, responsive, and user-friendly web apps with React,Next.js,Typescript, Node.js Vite, and Tailwind CSS.
         </p>
         <div className="flex gap-4 mt-8 justify-center">
           <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-lg transition-all">
             <a href="#projects">View My Work</a>
           </button>
-          <button className="bg-gray-200 hover:bg-gray-300 text-gray-900 px-8 py-3 rounded-lg transition-all dark:bg-gray-800 dark:hover:bg-gray-900 dark:text-white">
+          {/*<button className="bg-gray-200 hover:bg-gray-300 text-gray-900 px-8 py-3 rounded-lg transition-all dark:bg-gray-800 dark:hover:bg-gray-900 dark:text-white">
             <a href="/resume.pdf" download>Download Resume</a>
-          </button>
+          </button>*/}
         </div>
       </div>
     </section>

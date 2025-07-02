@@ -6,12 +6,12 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="py-20 px-4 bg-gray-100 dark:bg-gray-800 p-6 shadow-lg hover:shadow-xl transition-all duration-300"
+      className="min-h-screen flex items-center justify-center py-20 px-4 bg-gray-100 dark:bg-gray-800 p-6 shadow-lg hover:shadow-xl transition-all duration-300"
     >
       <h2 className="text-3xl font-bold text-center mb-12 dark:text-white">
         Projects
       </h2>
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {ProjectData.map((project) => (
           <div
             key={project.id}
@@ -53,7 +53,7 @@ export default function Projects() {
               </a>
               <a
                 href={project.code}
-                className="flex items-center gap-2 bg-gray-200 dark:bg-gray-300 px-4 py-2 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600"
+                className="flex items-center gap-2 bg-gray-200 dark:text-black-700 dark:bg-gray-300 px-4 py-2 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -27,5 +27,18 @@
       { "name": "PostgreSQL", "icon": "/icons/postgresql.svg" },
       { "name": "Tailwind CSS", "icon": "/icons/tailwindcss.svg" }
     ]
+  },
+  {
+    "id": 3,
+    "title": "OOTBCreatives",
+    "summary": "OOTB Creatives – Outside the Box Agency is a creative agency focused on driving business growth through innovative campaigns and compelling storytelling. Their services include events management, public relations, digital marketing, and commercial production.",
+    "demo": "https://ootb-project.vercel.app/",
+    "code": "https://github.com/Mr-S-26/ootb-project",
+    "image": "/images/ootb.png",
+    "tech": [
+      { "name": "Next.js", "icon": "/icons/next.svg"},
+      { "name": "Tailwind CSS", "icon": "/icons/tailwindcss.svg" },
+      {"name": "TypeScript", "icon": "/icons/typescript.svg" }
+    ]
   }
   ]

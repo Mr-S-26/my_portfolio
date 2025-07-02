@@ -6,7 +6,7 @@ export default function Contact() {
   const [state, handleSubmit] = useForm("mkgopaby"); // Replace with your ID
 
   return (
-    <section id="contact" className="py-20 px-4 bg-white dark:bg-gray-900">
+    <section id="contact" className="min-h-screen flex items-center justify-center py-20 px-4 bg-white dark:bg-gray-900">
       <div className="max-w-2xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12 dark:text-white">
           Let’s Collaborate 💌
